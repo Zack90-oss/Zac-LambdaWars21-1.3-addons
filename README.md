@@ -9,6 +9,10 @@ REMEMBER TO CHECK ADDONS YOU'RE DOWNLOADING FOR ANY UNWANTED/MALICIOUS COMPONENT
 
 ChangeList.txts:
 
+lw21_1.3_smarter_barreltraps_and_mortars.vpk:{
+  Barrel Traps and Combine Mortars no longer will autocast strike right on themselves and generally make semi-smart decisions
+}
+
 lw21_1.3_rebel_vehicles.vpk:{
   Tau charge ability can now be used on buildings
   
